@@ -1,0 +1,8 @@
+body {
+  font-family: 'Roboto Mono', monospace;
+  padding: 0 50px 0 50px;
+}
+
+.jumbotron {
+  background-color: #EA851F;
+}
